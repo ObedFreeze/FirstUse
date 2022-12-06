@@ -5,3 +5,6 @@ I'm Obed !
 
 # Subheader
 Je maitrise GitHub
+
+## Developpement
+1.Open index.html in your browser
